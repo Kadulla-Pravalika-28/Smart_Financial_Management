@@ -1,0 +1,501 @@
+Date,Payee,Description,Amount,ModeOfPayment,Category
+2024-01-22,Walmart,Groceries,3710.34,Credit Card,Utilities
+2025-06-17,Walmart,Subscription,3705.93,Net Banking,Food
+2024-03-12,Apple Store,Groceries,158.69,Credit Card,Utilities
+2024-06-07,BP Petrol,Groceries,2810.61,Net Banking,Shopping
+2025-03-26,Flipkart,Medical,1398.17,Cash,Utilities
+2023-11-23,Apple Store,Clothes,1396.58,Credit Card,Entertainment
+2025-07-25,Walmart,Mobile Purchase,492.61,Debit Card,Transport
+2025-02-09,Amazon,Online Shopping,2685.78,UPI,Food
+2024-04-20,Starbucks,Subscription,3096.41,Debit Card,Transport
+2025-04-24,Walmart,Groceries,3309.7,Debit Card,Food
+2025-03-13,Walmart,Mobile Purchase,1397.09,Debit Card,Utilities
+2024-10-23,Uber,Dinner,3354.17,Cash,Transport
+2024-01-26,Netflix,Fuel,3648.34,Credit Card,Shopping
+2024-10-14,Starbucks,Subscription,3443.93,Credit Card,Healthcare
+2024-12-09,Amazon,Dinner,4110.79,Debit Card,Shopping
+2025-02-05,Walmart,Dinner,4566.55,Net Banking,Healthcare
+2024-12-19,Local Grocery,Subscription,2501.16,UPI,Utilities
+2025-02-08,Netflix,Dinner,3727.5,Net Banking,Entertainment
+2024-03-18,Apple Store,Medical,2003.01,Credit Card,Utilities
+2024-06-03,Flipkart,Movie Ticket,3781.35,Cash,Utilities
+2024-02-03,Netflix,Subscription,2116.58,Cash,Shopping
+2024-10-12,BP Petrol,Online Shopping,2650.28,Net Banking,Food
+2023-12-11,Walmart,Subscription,4425.09,Debit Card,Healthcare
+2024-11-23,Walmart,Taxi Ride,2179.48,UPI,Food
+2025-02-10,Big Bazaar,Electricity Bill,2543.33,Cash,Healthcare
+2025-01-05,HDFC Bank,Fuel,3048.76,Credit Card,Entertainment
+2025-05-25,Big Bazaar,Fuel,4593.28,Net Banking,Entertainment
+2024-06-24,Amazon,Movie Ticket,4646.2,Debit Card,Utilities
+2025-09-08,Local Grocery,Medical,4735.28,Cash,Healthcare
+2024-06-27,Walmart,Fuel,3831.51,Credit Card,Healthcare
+2024-07-08,Big Bazaar,Electricity Bill,1332.63,Net Banking,Shopping
+2025-04-04,Big Bazaar,Dinner,3567.62,UPI,Healthcare
+2024-01-11,Uber,Online Shopping,4499.07,UPI,Food
+2025-02-26,Local Grocery,Movie Ticket,1697.05,Net Banking,Transport
+2025-03-16,BP Petrol,Dinner,45.88,Cash,Utilities
+2025-08-29,Amazon,Clothes,363.58,Credit Card,Entertainment
+2023-12-22,Flipkart,Dinner,2700.78,Net Banking,Transport
+2024-07-10,Local Grocery,Online Shopping,4039.41,Credit Card,Food
+2025-07-30,HDFC Bank,Mobile Purchase,1777.94,UPI,Shopping
+2025-09-12,HDFC Bank,Subscription,4920.98,Cash,Food
+2024-09-20,Uber,Movie Ticket,1250.8,Credit Card,Transport
+2024-08-04,Netflix,Mobile Purchase,925.61,UPI,Utilities
+2025-08-21,Flipkart,Fuel,498.56,Net Banking,Food
+2025-08-03,Local Grocery,Electricity Bill,2038.01,UPI,Utilities
+2024-09-22,Amazon,Electricity Bill,1901.08,UPI,Entertainment
+2024-07-29,Starbucks,Mobile Purchase,3485.99,Net Banking,Healthcare
+2024-06-26,Netflix,Dinner,1490.57,Cash,Transport
+2024-04-30,Amazon,Clothes,295.25,Net Banking,Shopping
+2024-06-10,Big Bazaar,Electricity Bill,293.83,Net Banking,Food
+2025-04-30,Walmart,Medical,349.12,Credit Card,Shopping
+2025-07-07,BP Petrol,Dinner,2898.81,Cash,Transport
+2025-08-15,Apple Store,Subscription,2922.52,Net Banking,Entertainment
+2025-02-12,Local Grocery,Subscription,3583.8,Credit Card,Entertainment
+2024-09-27,Netflix,Subscription,3231.05,UPI,Entertainment
+2025-08-24,Amazon,Online Shopping,3109.58,Net Banking,Food
+2025-08-23,Big Bazaar,Dinner,2534.36,Credit Card,Entertainment
+2025-08-28,Local Grocery,Clothes,1432.09,UPI,Transport
+2023-11-17,Starbucks,Medical,4919.43,Net Banking,Food
+2023-12-24,Big Bazaar,Taxi Ride,4659.46,Cash,Utilities
+2025-02-09,Walmart,Movie Ticket,3714.66,Credit Card,Entertainment
+2025-01-22,BP Petrol,Dinner,3590.88,Credit Card,Healthcare
+2024-01-27,Starbucks,Fuel,2447.77,Cash,Food
+2024-01-27,Apple Store,Taxi Ride,229.99,Debit Card,Utilities
+2024-01-24,Starbucks,Electricity Bill,3708.74,Net Banking,Healthcare
+2024-08-26,Big Bazaar,Groceries,568.25,Credit Card,Transport
+2025-10-01,Uber,Medical,2767.1,UPI,Utilities
+2025-09-25,Starbucks,Clothes,4495.92,Cash,Entertainment
+2025-04-05,HDFC Bank,Dinner,3338.0,Debit Card,Transport
+2024-09-16,BP Petrol,Electricity Bill,4629.56,Credit Card,Utilities
+2025-05-09,Apple Store,Groceries,905.01,Debit Card,Shopping
+2023-12-22,Local Grocery,Taxi Ride,804.4,Cash,Shopping
+2025-09-28,Flipkart,Dinner,1005.87,UPI,Entertainment
+2024-12-29,Local Grocery,Dinner,128.09,Credit Card,Shopping
+2024-12-05,Starbucks,Movie Ticket,4834.78,Debit Card,Entertainment
+2024-01-20,Big Bazaar,Mobile Purchase,3400.8,Net Banking,Entertainment
+2025-10-09,Walmart,Taxi Ride,901.05,Debit Card,Food
+2025-07-18,BP Petrol,Mobile Purchase,1734.98,Debit Card,Shopping
+2024-02-25,Big Bazaar,Movie Ticket,1932.13,Net Banking,Utilities
+2025-02-19,Amazon,Mobile Purchase,18.44,Net Banking,Healthcare
+2023-12-21,Local Grocery,Clothes,2162.17,Debit Card,Transport
+2024-12-20,HDFC Bank,Movie Ticket,3601.57,Debit Card,Transport
+2024-12-25,HDFC Bank,Mobile Purchase,1637.65,Debit Card,Transport
+2025-06-29,Local Grocery,Mobile Purchase,3328.0,UPI,Healthcare
+2025-05-12,BP Petrol,Medical,1511.74,Net Banking,Food
+2024-12-30,Starbucks,Dinner,2155.14,Net Banking,Transport
+2024-01-06,Uber,Online Shopping,2214.51,Credit Card,Transport
+2024-07-10,Netflix,Subscription,433.13,Net Banking,Healthcare
+2024-01-28,BP Petrol,Clothes,476.0,Credit Card,Healthcare
+2024-12-24,Local Grocery,Dinner,745.3,Cash,Utilities
+2024-07-08,BP Petrol,Movie Ticket,2282.53,Net Banking,Utilities
+2023-11-24,Apple Store,Online Shopping,2004.27,Credit Card,Healthcare
+2023-12-03,Amazon,Movie Ticket,3894.32,Credit Card,Utilities
+2023-11-25,Big Bazaar,Online Shopping,260.59,Credit Card,Food
+2024-07-27,Netflix,Online Shopping,3341.21,Net Banking,Transport
+2024-12-17,Flipkart,Medical,4076.88,Net Banking,Shopping
+2024-04-24,Flipkart,Electricity Bill,3720.84,UPI,Shopping
+2025-02-14,Local Grocery,Subscription,1393.78,Net Banking,Shopping
+2024-02-04,Local Grocery,Taxi Ride,2204.96,Debit Card,Utilities
+2025-02-01,Uber,Clothes,4466.2,Cash,Utilities
+2025-06-05,Local Grocery,Mobile Purchase,3472.81,Credit Card,Food
+2024-09-08,Apple Store,Clothes,2717.63,UPI,Food
+2025-04-09,Apple Store,Mobile Purchase,4525.14,Net Banking,Healthcare
+2025-10-17,BP Petrol,Mobile Purchase,2390.13,Debit Card,Entertainment
+2024-10-03,Apple Store,Fuel,3740.1,Net Banking,Transport
+2025-03-26,Flipkart,Dinner,1371.95,UPI,Food
+2024-10-04,Uber,Subscription,3398.92,UPI,Healthcare
+2025-05-21,Flipkart,Electricity Bill,4903.8,Net Banking,Food
+2024-09-29,BP Petrol,Medical,3318.37,Cash,Healthcare
+2024-08-25,Netflix,Online Shopping,916.83,Debit Card,Shopping
+2024-12-06,Local Grocery,Online Shopping,1640.96,UPI,Entertainment
+2024-09-01,Starbucks,Movie Ticket,2356.83,Net Banking,Food
+2024-11-13,Local Grocery,Subscription,352.41,Cash,Food
+2025-02-26,Local Grocery,Groceries,3110.46,Credit Card,Utilities
+2024-07-10,HDFC Bank,Movie Ticket,2824.21,Credit Card,Shopping
+2023-11-21,Starbucks,Clothes,847.27,Net Banking,Healthcare
+2025-07-12,Netflix,Taxi Ride,549.41,Cash,Entertainment
+2024-03-27,HDFC Bank,Mobile Purchase,1989.31,Credit Card,Food
+2024-03-10,HDFC Bank,Dinner,518.49,Debit Card,Healthcare
+2024-03-02,Walmart,Medical,3915.35,Debit Card,Transport
+2024-08-25,HDFC Bank,Clothes,354.09,Debit Card,Food
+2024-09-02,Flipkart,Movie Ticket,2173.28,Debit Card,Healthcare
+2024-07-24,Netflix,Mobile Purchase,888.92,Net Banking,Healthcare
+2025-02-03,BP Petrol,Fuel,3875.46,UPI,Shopping
+2024-03-10,Starbucks,Clothes,4260.05,Cash,Entertainment
+2024-08-02,Local Grocery,Online Shopping,2853.55,UPI,Entertainment
+2025-10-08,Flipkart,Clothes,917.38,Credit Card,Entertainment
+2025-02-15,Uber,Taxi Ride,4402.8,Debit Card,Transport
+2025-10-27,Big Bazaar,Dinner,437.21,UPI,Shopping
+2024-04-17,Local Grocery,Online Shopping,3233.06,UPI,Shopping
+2025-10-20,Walmart,Taxi Ride,1115.77,Credit Card,Entertainment
+2023-12-28,BP Petrol,Clothes,2371.57,Net Banking,Entertainment
+2024-08-28,Big Bazaar,Clothes,1765.53,UPI,Entertainment
+2024-12-28,Starbucks,Dinner,612.07,Credit Card,Entertainment
+2025-07-07,Big Bazaar,Electricity Bill,965.79,UPI,Entertainment
+2024-03-13,Big Bazaar,Medical,1422.16,Cash,Utilities
+2025-01-07,Local Grocery,Clothes,905.41,Cash,Healthcare
+2024-05-09,Netflix,Taxi Ride,237.12,Cash,Transport
+2025-01-11,Netflix,Subscription,4343.62,UPI,Food
+2025-10-25,BP Petrol,Taxi Ride,2352.29,UPI,Entertainment
+2025-05-02,Amazon,Taxi Ride,4705.91,UPI,Food
+2025-09-01,Apple Store,Online Shopping,379.67,Cash,Utilities
+2025-06-07,BP Petrol,Taxi Ride,435.05,Credit Card,Food
+2024-04-14,Apple Store,Medical,2984.67,Net Banking,Utilities
+2024-05-20,Apple Store,Online Shopping,4543.44,Debit Card,Transport
+2024-08-24,Starbucks,Medical,3108.93,Net Banking,Healthcare
+2025-07-28,Local Grocery,Subscription,1063.02,Cash,Utilities
+2025-03-06,Netflix,Fuel,384.57,Cash,Shopping
+2024-08-02,BP Petrol,Online Shopping,1463.38,Credit Card,Entertainment
+2023-11-14,Starbucks,Online Shopping,365.19,Credit Card,Entertainment
+2024-02-05,BP Petrol,Subscription,4021.49,Credit Card,Shopping
+2025-07-12,Big Bazaar,Dinner,3241.7,Debit Card,Utilities
+2025-08-25,Amazon,Electricity Bill,3965.22,Net Banking,Healthcare
+2024-04-03,Starbucks,Online Shopping,630.52,Debit Card,Healthcare
+2024-09-20,Starbucks,Fuel,2704.51,UPI,Food
+2024-03-04,Amazon,Mobile Purchase,3675.32,Net Banking,Entertainment
+2025-10-11,Walmart,Dinner,4809.94,Net Banking,Transport
+2025-10-16,HDFC Bank,Taxi Ride,2885.47,Credit Card,Shopping
+2024-05-24,HDFC Bank,Online Shopping,4581.2,Credit Card,Transport
+2024-08-17,HDFC Bank,Online Shopping,4845.59,UPI,Entertainment
+2024-09-14,Uber,Clothes,3353.97,Credit Card,Entertainment
+2024-09-11,Flipkart,Taxi Ride,3316.29,UPI,Transport
+2025-09-30,Flipkart,Movie Ticket,1579.44,Debit Card,Food
+2024-09-19,Big Bazaar,Groceries,3291.73,Net Banking,Shopping
+2024-09-09,Amazon,Dinner,2597.01,Net Banking,Shopping
+2024-02-05,Flipkart,Groceries,1025.76,Net Banking,Utilities
+2025-01-16,Flipkart,Online Shopping,615.92,Net Banking,Utilities
+2023-11-11,Netflix,Taxi Ride,2758.69,Net Banking,Shopping
+2025-08-03,Local Grocery,Movie Ticket,2312.62,Cash,Healthcare
+2025-06-02,Flipkart,Taxi Ride,2549.27,Debit Card,Shopping
+2024-06-30,Flipkart,Dinner,2289.36,Credit Card,Shopping
+2025-04-25,BP Petrol,Fuel,3734.0,Credit Card,Food
+2025-01-28,Apple Store,Clothes,4671.9,Net Banking,Entertainment
+2025-11-04,Starbucks,Taxi Ride,4189.0,Net Banking,Healthcare
+2024-06-23,Netflix,Online Shopping,2697.52,Debit Card,Entertainment
+2024-04-20,Big Bazaar,Mobile Purchase,2282.17,Debit Card,Utilities
+2023-11-23,Local Grocery,Medical,1921.02,UPI,Food
+2024-12-16,Flipkart,Mobile Purchase,1936.53,Credit Card,Shopping
+2025-09-30,Netflix,Fuel,4827.11,Debit Card,Food
+2024-08-13,Walmart,Fuel,4553.1,Cash,Healthcare
+2025-06-12,Apple Store,Subscription,4850.08,Cash,Shopping
+2025-02-08,Uber,Medical,3466.6,Cash,Entertainment
+2023-12-17,Big Bazaar,Mobile Purchase,4771.16,UPI,Transport
+2025-10-01,BP Petrol,Movie Ticket,1181.5,Debit Card,Utilities
+2025-08-06,Apple Store,Movie Ticket,3804.24,Cash,Shopping
+2025-05-20,Starbucks,Groceries,239.49,Cash,Entertainment
+2024-11-04,Uber,Mobile Purchase,736.39,Net Banking,Shopping
+2024-04-06,HDFC Bank,Electricity Bill,858.22,Cash,Transport
+2024-10-11,BP Petrol,Subscription,1211.74,Net Banking,Utilities
+2025-03-14,Flipkart,Subscription,1277.35,Debit Card,Healthcare
+2025-10-28,Flipkart,Taxi Ride,3391.28,Credit Card,Food
+2024-08-11,Uber,Medical,1502.78,UPI,Healthcare
+2025-02-23,Flipkart,Taxi Ride,1004.09,UPI,Shopping
+2025-07-20,Local Grocery,Mobile Purchase,2863.89,Net Banking,Entertainment
+2023-11-21,Starbucks,Groceries,4889.94,UPI,Entertainment
+2025-10-29,BP Petrol,Subscription,3893.77,Cash,Transport
+2024-06-16,Starbucks,Dinner,3039.25,Debit Card,Utilities
+2024-01-25,Local Grocery,Medical,1260.63,Credit Card,Healthcare
+2025-07-30,HDFC Bank,Subscription,206.72,UPI,Food
+2024-03-23,Uber,Electricity Bill,459.77,Debit Card,Entertainment
+2024-09-07,Netflix,Dinner,669.48,Net Banking,Entertainment
+2024-05-12,Big Bazaar,Taxi Ride,4154.06,Debit Card,Shopping
+2025-01-08,Uber,Movie Ticket,2346.97,Cash,Utilities
+2025-03-20,HDFC Bank,Subscription,4899.91,Net Banking,Entertainment
+2025-08-06,Apple Store,Groceries,1329.65,Cash,Shopping
+2024-10-25,HDFC Bank,Subscription,1318.19,UPI,Healthcare
+2024-10-22,Walmart,Subscription,1176.77,Cash,Transport
+2024-04-11,Uber,Medical,1114.62,Cash,Healthcare
+2024-07-19,Starbucks,Subscription,2047.4,Credit Card,Food
+2025-09-29,Starbucks,Online Shopping,589.44,Credit Card,Transport
+2025-06-21,Apple Store,Online Shopping,1861.35,Net Banking,Shopping
+2024-03-15,Netflix,Mobile Purchase,3278.06,UPI,Transport
+2024-09-15,Starbucks,Groceries,3454.5,Credit Card,Shopping
+2024-08-08,Local Grocery,Clothes,505.78,Debit Card,Transport
+2024-01-16,Uber,Groceries,1996.72,Credit Card,Food
+2024-07-29,Walmart,Subscription,1068.41,Net Banking,Food
+2025-09-16,Uber,Dinner,4944.22,Net Banking,Utilities
+2025-08-28,Big Bazaar,Dinner,2936.05,Credit Card,Entertainment
+2025-06-08,BP Petrol,Groceries,1393.6,Credit Card,Utilities
+2024-05-02,Starbucks,Electricity Bill,558.53,Cash,Utilities
+2025-10-22,Uber,Dinner,2948.38,Cash,Utilities
+2025-02-08,Amazon,Electricity Bill,3711.17,Net Banking,Food
+2025-09-02,Flipkart,Online Shopping,3892.31,Net Banking,Transport
+2025-07-18,Flipkart,Fuel,1115.53,Net Banking,Food
+2024-01-02,Big Bazaar,Taxi Ride,2295.63,Cash,Food
+2024-07-04,Apple Store,Mobile Purchase,3433.63,UPI,Healthcare
+2024-08-09,Walmart,Movie Ticket,1617.34,Credit Card,Food
+2025-06-30,Starbucks,Medical,3169.05,Net Banking,Healthcare
+2024-12-09,Apple Store,Medical,2657.48,UPI,Transport
+2024-02-26,Apple Store,Movie Ticket,3967.55,Cash,Healthcare
+2024-01-10,Big Bazaar,Dinner,2156.05,Credit Card,Shopping
+2024-11-24,Flipkart,Mobile Purchase,2085.79,Cash,Entertainment
+2024-08-26,Uber,Subscription,1281.9,Credit Card,Healthcare
+2024-07-09,Walmart,Movie Ticket,4160.54,Cash,Shopping
+2025-07-31,Uber,Electricity Bill,2786.29,Net Banking,Transport
+2024-04-10,Uber,Subscription,619.93,Debit Card,Healthcare
+2024-08-30,Amazon,Taxi Ride,3006.05,Debit Card,Food
+2024-03-25,Big Bazaar,Dinner,782.1,UPI,Utilities
+2025-07-19,Uber,Fuel,1844.13,Debit Card,Transport
+2025-03-20,Apple Store,Fuel,4872.99,Net Banking,Transport
+2023-12-16,HDFC Bank,Fuel,141.01,Debit Card,Food
+2025-05-06,Starbucks,Taxi Ride,4608.47,Debit Card,Food
+2025-05-05,Netflix,Medical,3290.15,Cash,Utilities
+2024-01-28,Amazon,Movie Ticket,3733.1,Credit Card,Shopping
+2024-09-03,Flipkart,Clothes,795.47,Debit Card,Healthcare
+2024-12-09,BP Petrol,Medical,433.94,Cash,Utilities
+2025-05-29,BP Petrol,Groceries,3373.1,Debit Card,Shopping
+2023-12-30,Apple Store,Online Shopping,3039.31,UPI,Entertainment
+2025-03-31,Big Bazaar,Movie Ticket,1732.41,Cash,Entertainment
+2023-12-13,HDFC Bank,Medical,2438.3,Debit Card,Food
+2025-03-26,Apple Store,Medical,283.36,Credit Card,Entertainment
+2025-04-04,Netflix,Taxi Ride,1454.34,Cash,Food
+2024-06-15,Apple Store,Electricity Bill,654.64,Net Banking,Healthcare
+2025-03-16,Big Bazaar,Fuel,4168.44,Debit Card,Food
+2024-09-26,Amazon,Mobile Purchase,103.52,Cash,Entertainment
+2024-03-27,Apple Store,Medical,2028.07,UPI,Entertainment
+2025-07-12,Apple Store,Groceries,4831.34,Credit Card,Transport
+2024-07-23,Uber,Movie Ticket,2189.19,Cash,Utilities
+2024-08-17,BP Petrol,Mobile Purchase,2624.57,UPI,Entertainment
+2024-11-24,Local Grocery,Clothes,3897.8,Cash,Transport
+2024-01-28,Walmart,Fuel,2554.66,Debit Card,Entertainment
+2024-01-16,Netflix,Dinner,522.99,Debit Card,Utilities
+2025-05-13,BP Petrol,Electricity Bill,3803.47,Cash,Utilities
+2024-02-02,Flipkart,Online Shopping,3774.68,Net Banking,Shopping
+2023-12-10,BP Petrol,Subscription,3180.14,Net Banking,Entertainment
+2024-02-03,Uber,Electricity Bill,2204.42,UPI,Shopping
+2024-01-30,Starbucks,Taxi Ride,2961.18,Debit Card,Transport
+2025-08-23,Starbucks,Online Shopping,2265.05,Cash,Entertainment
+2025-01-17,Walmart,Subscription,4322.61,Cash,Transport
+2024-03-08,Big Bazaar,Mobile Purchase,2318.93,Net Banking,Healthcare
+2025-09-25,Flipkart,Medical,3262.67,Debit Card,Transport
+2024-07-07,Big Bazaar,Electricity Bill,4789.03,UPI,Food
+2024-11-20,Walmart,Fuel,3234.17,Cash,Utilities
+2023-11-13,Flipkart,Online Shopping,2625.1,Net Banking,Utilities
+2024-10-30,Uber,Taxi Ride,1943.21,Debit Card,Healthcare
+2024-03-04,Amazon,Subscription,3240.05,Cash,Entertainment
+2025-08-02,Big Bazaar,Subscription,1938.96,Debit Card,Healthcare
+2024-01-04,BP Petrol,Electricity Bill,1673.48,Net Banking,Healthcare
+2025-06-15,Uber,Taxi Ride,4838.81,UPI,Utilities
+2024-03-07,Walmart,Taxi Ride,2799.02,Debit Card,Utilities
+2023-12-21,HDFC Bank,Fuel,476.33,UPI,Transport
+2024-11-01,Amazon,Clothes,1551.24,Credit Card,Entertainment
+2024-06-27,Local Grocery,Dinner,4999.88,Credit Card,Food
+2025-01-08,Walmart,Fuel,3856.66,Net Banking,Food
+2023-12-30,Uber,Medical,663.93,UPI,Utilities
+2025-05-24,Netflix,Medical,4047.13,Credit Card,Healthcare
+2024-08-15,Amazon,Mobile Purchase,1827.85,Credit Card,Shopping
+2024-02-20,Starbucks,Online Shopping,1177.67,Credit Card,Entertainment
+2024-07-14,Local Grocery,Clothes,3394.75,Net Banking,Shopping
+2024-07-22,Starbucks,Mobile Purchase,2519.5,UPI,Utilities
+2025-04-16,BP Petrol,Electricity Bill,4366.28,Cash,Healthcare
+2024-07-02,Uber,Fuel,4672.12,Net Banking,Food
+2025-01-19,Walmart,Electricity Bill,1371.23,Net Banking,Utilities
+2024-08-16,Walmart,Dinner,4085.35,Debit Card,Food
+2024-09-08,Amazon,Mobile Purchase,2515.02,Credit Card,Shopping
+2025-08-15,Uber,Dinner,150.66,Cash,Healthcare
+2024-01-11,Uber,Electricity Bill,696.62,Debit Card,Shopping
+2023-11-25,Netflix,Online Shopping,2248.52,Cash,Food
+2025-10-18,Starbucks,Dinner,4176.47,Net Banking,Healthcare
+2024-02-22,Big Bazaar,Mobile Purchase,564.82,Debit Card,Utilities
+2025-01-02,Walmart,Groceries,1199.81,Net Banking,Shopping
+2025-09-03,Walmart,Online Shopping,2987.73,Cash,Healthcare
+2024-05-28,BP Petrol,Dinner,3595.54,Debit Card,Shopping
+2025-11-05,BP Petrol,Clothes,1210.42,UPI,Utilities
+2023-12-27,HDFC Bank,Movie Ticket,2622.19,Debit Card,Food
+2024-05-17,Big Bazaar,Fuel,3934.2,Net Banking,Transport
+2025-10-17,Apple Store,Online Shopping,227.24,UPI,Entertainment
+2025-02-20,Amazon,Clothes,3944.71,Debit Card,Utilities
+2024-01-04,HDFC Bank,Movie Ticket,3859.79,Debit Card,Utilities
+2025-09-22,Uber,Fuel,1699.35,Credit Card,Healthcare
+2024-07-19,Flipkart,Subscription,919.57,Credit Card,Food
+2024-07-26,Amazon,Taxi Ride,1015.94,Credit Card,Food
+2024-12-18,Starbucks,Fuel,1997.14,Net Banking,Shopping
+2025-02-20,Amazon,Subscription,963.61,Debit Card,Food
+2024-01-05,Uber,Taxi Ride,631.13,Debit Card,Shopping
+2024-09-23,Flipkart,Mobile Purchase,1701.79,Credit Card,Shopping
+2023-11-29,Flipkart,Clothes,4622.31,Net Banking,Entertainment
+2025-08-14,Apple Store,Movie Ticket,2158.73,Credit Card,Transport
+2025-01-10,Uber,Movie Ticket,409.54,Debit Card,Entertainment
+2024-08-07,BP Petrol,Mobile Purchase,841.56,UPI,Entertainment
+2024-08-06,Amazon,Clothes,3078.11,UPI,Entertainment
+2024-01-22,Amazon,Movie Ticket,3359.21,UPI,Entertainment
+2024-05-30,HDFC Bank,Electricity Bill,4764.42,Credit Card,Transport
+2023-12-13,Flipkart,Groceries,639.89,Credit Card,Healthcare
+2024-10-27,Uber,Mobile Purchase,4747.84,Cash,Transport
+2025-06-02,HDFC Bank,Online Shopping,4744.63,Debit Card,Shopping
+2025-08-20,BP Petrol,Electricity Bill,2652.0,UPI,Entertainment
+2024-01-11,Starbucks,Dinner,4803.0,Cash,Healthcare
+2025-04-30,Flipkart,Fuel,1941.07,Net Banking,Food
+2025-02-11,Starbucks,Online Shopping,1080.71,Net Banking,Entertainment
+2023-11-27,Flipkart,Dinner,621.96,Cash,Shopping
+2025-05-14,Flipkart,Movie Ticket,4054.46,Debit Card,Healthcare
+2024-11-16,Walmart,Fuel,2715.44,Debit Card,Utilities
+2023-11-09,HDFC Bank,Electricity Bill,3970.54,Net Banking,Utilities
+2025-07-05,Local Grocery,Electricity Bill,1191.31,UPI,Food
+2024-11-02,Big Bazaar,Medical,1850.87,Net Banking,Utilities
+2024-02-19,Walmart,Movie Ticket,1553.36,UPI,Transport
+2024-09-12,Apple Store,Medical,378.02,Debit Card,Healthcare
+2025-08-23,Flipkart,Online Shopping,3403.74,Debit Card,Utilities
+2024-04-21,HDFC Bank,Medical,918.0,Credit Card,Shopping
+2024-06-10,Amazon,Movie Ticket,2595.33,Debit Card,Utilities
+2025-05-25,Uber,Dinner,1736.66,Net Banking,Entertainment
+2025-08-18,Starbucks,Dinner,3178.93,Net Banking,Entertainment
+2025-07-01,HDFC Bank,Taxi Ride,3076.0,Cash,Transport
+2024-01-20,Netflix,Medical,4708.62,Credit Card,Utilities
+2024-01-02,BP Petrol,Medical,1694.72,Net Banking,Food
+2025-10-08,Walmart,Groceries,4743.25,Net Banking,Entertainment
+2024-01-10,Local Grocery,Medical,2088.77,Cash,Shopping
+2024-02-03,Big Bazaar,Taxi Ride,3213.12,Debit Card,Shopping
+2025-03-01,HDFC Bank,Mobile Purchase,1494.2,Cash,Healthcare
+2025-09-06,Netflix,Online Shopping,2083.95,UPI,Utilities
+2024-11-23,BP Petrol,Electricity Bill,1569.79,Debit Card,Healthcare
+2024-11-18,Apple Store,Electricity Bill,3805.72,Net Banking,Transport
+2025-07-21,Uber,Dinner,2337.7,Debit Card,Shopping
+2025-02-26,Netflix,Movie Ticket,262.52,UPI,Transport
+2024-09-04,Local Grocery,Electricity Bill,4069.25,Net Banking,Healthcare
+2024-12-21,Local Grocery,Electricity Bill,2496.35,Net Banking,Shopping
+2024-06-14,Starbucks,Online Shopping,125.65,UPI,Transport
+2024-07-26,Local Grocery,Dinner,2920.89,Cash,Food
+2025-01-22,Flipkart,Medical,4412.87,UPI,Entertainment
+2024-05-06,Amazon,Movie Ticket,2160.33,Debit Card,Healthcare
+2024-10-28,Apple Store,Clothes,235.76,Cash,Transport
+2024-04-10,Local Grocery,Clothes,2770.58,Cash,Shopping
+2024-06-08,Flipkart,Fuel,1405.81,Net Banking,Healthcare
+2024-02-20,Walmart,Electricity Bill,4875.66,UPI,Entertainment
+2024-11-24,Big Bazaar,Clothes,3777.28,Credit Card,Transport
+2024-06-03,Apple Store,Fuel,210.87,Cash,Utilities
+2023-11-07,Uber,Online Shopping,2601.47,Credit Card,Transport
+2024-05-28,Netflix,Clothes,4657.53,Debit Card,Utilities
+2024-09-30,BP Petrol,Taxi Ride,2972.69,Net Banking,Transport
+2024-05-10,Flipkart,Medical,1505.95,Cash,Entertainment
+2024-12-02,HDFC Bank,Movie Ticket,4899.69,Net Banking,Entertainment
+2023-12-03,HDFC Bank,Groceries,2988.58,Debit Card,Healthcare
+2024-03-24,BP Petrol,Dinner,3609.79,Net Banking,Shopping
+2025-05-16,Big Bazaar,Subscription,3608.7,UPI,Utilities
+2023-12-10,Local Grocery,Groceries,2867.13,Cash,Utilities
+2025-10-18,Flipkart,Clothes,2099.71,UPI,Healthcare
+2025-04-12,Apple Store,Fuel,3877.11,UPI,Healthcare
+2025-09-04,Netflix,Fuel,1044.64,Debit Card,Healthcare
+2024-07-05,Big Bazaar,Mobile Purchase,1575.63,Credit Card,Shopping
+2024-05-10,Uber,Fuel,1777.89,Debit Card,Transport
+2024-06-29,Local Grocery,Dinner,1402.24,Debit Card,Utilities
+2025-01-06,Starbucks,Dinner,3454.3,UPI,Entertainment
+2024-07-03,Uber,Fuel,4669.16,Debit Card,Entertainment
+2025-07-05,BP Petrol,Subscription,2720.52,UPI,Entertainment
+2025-06-10,Starbucks,Groceries,1445.28,Cash,Entertainment
+2024-08-11,HDFC Bank,Taxi Ride,3739.22,Credit Card,Utilities
+2024-05-04,Starbucks,Fuel,3483.89,Credit Card,Food
+2024-02-15,BP Petrol,Dinner,1219.87,Net Banking,Utilities
+2024-01-23,Local Grocery,Groceries,509.99,Debit Card,Healthcare
+2024-07-11,Walmart,Subscription,3856.12,Cash,Transport
+2025-05-29,Apple Store,Subscription,4675.81,UPI,Shopping
+2024-01-10,Local Grocery,Taxi Ride,1612.63,Cash,Food
+2024-01-09,BP Petrol,Dinner,2680.41,Cash,Utilities
+2024-09-05,Netflix,Groceries,4985.89,UPI,Shopping
+2025-04-30,Starbucks,Groceries,56.24,Net Banking,Transport
+2025-07-20,Uber,Taxi Ride,2277.2,Net Banking,Transport
+2024-06-19,Netflix,Fuel,2345.42,Credit Card,Food
+2024-12-03,Netflix,Online Shopping,3244.94,Credit Card,Food
+2024-11-26,Starbucks,Medical,3375.26,Credit Card,Utilities
+2024-02-20,HDFC Bank,Mobile Purchase,4136.68,Net Banking,Entertainment
+2025-08-10,Apple Store,Subscription,485.97,Credit Card,Shopping
+2024-12-10,Local Grocery,Groceries,1311.32,Credit Card,Shopping
+2025-02-06,Uber,Taxi Ride,2916.48,Net Banking,Food
+2025-02-12,HDFC Bank,Clothes,3466.92,Cash,Healthcare
+2025-07-08,Flipkart,Taxi Ride,806.99,Net Banking,Healthcare
+2024-12-23,Walmart,Subscription,4581.49,Debit Card,Entertainment
+2024-02-16,Local Grocery,Dinner,4787.23,UPI,Utilities
+2024-07-29,BP Petrol,Clothes,2085.07,Net Banking,Shopping
+2024-05-05,HDFC Bank,Dinner,3811.68,Net Banking,Food
+2024-05-17,Flipkart,Fuel,3521.79,Cash,Transport
+2025-07-15,Amazon,Fuel,4515.41,Credit Card,Transport
+2024-05-06,Netflix,Electricity Bill,1647.31,Net Banking,Shopping
+2025-07-10,HDFC Bank,Dinner,3587.42,UPI,Food
+2024-06-02,Flipkart,Groceries,2272.63,Net Banking,Shopping
+2024-07-27,BP Petrol,Groceries,2798.4,Debit Card,Healthcare
+2025-10-15,Apple Store,Taxi Ride,4084.1,Credit Card,Transport
+2025-08-24,Amazon,Mobile Purchase,1729.2,Cash,Transport
+2025-09-06,Walmart,Online Shopping,168.36,UPI,Utilities
+2025-06-21,HDFC Bank,Subscription,4819.28,Debit Card,Shopping
+2024-08-04,Apple Store,Mobile Purchase,410.45,Net Banking,Utilities
+2024-01-07,Uber,Movie Ticket,900.58,Net Banking,Shopping
+2024-05-14,Netflix,Dinner,4175.76,Cash,Entertainment
+2024-07-20,HDFC Bank,Fuel,2126.4,UPI,Utilities
+2025-02-26,Flipkart,Clothes,784.06,Credit Card,Healthcare
+2025-07-14,Amazon,Subscription,2102.01,Cash,Utilities
+2025-04-09,Walmart,Movie Ticket,2973.78,UPI,Transport
+2023-12-19,Amazon,Dinner,3705.3,UPI,Shopping
+2025-03-12,Big Bazaar,Dinner,3774.38,Cash,Utilities
+2024-06-09,Starbucks,Dinner,4080.77,Net Banking,Entertainment
+2024-03-25,BP Petrol,Subscription,4093.73,Credit Card,Entertainment
+2025-06-13,HDFC Bank,Fuel,1113.0,Debit Card,Entertainment
+2025-09-05,Big Bazaar,Medical,4399.77,Credit Card,Healthcare
+2023-12-12,Apple Store,Fuel,2483.15,Debit Card,Healthcare
+2023-12-20,Apple Store,Fuel,1600.48,UPI,Shopping
+2025-06-07,Starbucks,Mobile Purchase,927.56,Net Banking,Shopping
+2025-03-05,Local Grocery,Taxi Ride,4289.13,Credit Card,Shopping
+2025-09-08,Big Bazaar,Mobile Purchase,4839.25,Net Banking,Transport
+2025-06-22,Apple Store,Dinner,1282.43,Debit Card,Healthcare
+2025-08-18,Flipkart,Clothes,471.4,Credit Card,Food
+2025-02-05,Apple Store,Subscription,3028.8,Cash,Food
+2025-04-28,BP Petrol,Subscription,2798.66,UPI,Utilities
+2024-12-01,Starbucks,Groceries,1066.92,Credit Card,Healthcare
+2025-07-09,Flipkart,Dinner,3481.18,Credit Card,Shopping
+2025-03-06,Big Bazaar,Clothes,3879.81,UPI,Shopping
+2024-05-09,HDFC Bank,Clothes,1549.03,Debit Card,Transport
+2024-06-15,Flipkart,Movie Ticket,4016.05,UPI,Entertainment
+2025-04-12,Uber,Clothes,2075.51,Net Banking,Utilities
+2025-06-10,Amazon,Taxi Ride,2771.02,Net Banking,Transport
+2024-09-05,Starbucks,Electricity Bill,989.0,Credit Card,Shopping
+2024-04-02,Local Grocery,Online Shopping,2757.71,Debit Card,Entertainment
+2024-06-24,HDFC Bank,Online Shopping,2309.54,Debit Card,Utilities
+2025-06-16,Big Bazaar,Online Shopping,928.4,Net Banking,Healthcare
+2025-09-07,Big Bazaar,Groceries,4196.95,Cash,Healthcare
+2025-09-18,Amazon,Mobile Purchase,696.08,Credit Card,Food
+2023-11-13,Netflix,Groceries,1101.41,UPI,Entertainment
+2025-09-06,BP Petrol,Subscription,3337.11,Net Banking,Shopping
+2024-01-01,Flipkart,Groceries,43.0,Net Banking,Shopping
+2025-10-25,Amazon,Fuel,3613.74,Net Banking,Entertainment
+2025-10-20,Big Bazaar,Subscription,2158.56,Credit Card,Food
+2025-07-31,Big Bazaar,Electricity Bill,1212.43,Net Banking,Transport
+2025-02-21,Uber,Taxi Ride,3976.73,Cash,Entertainment
+2024-09-17,Flipkart,Medical,1223.61,Credit Card,Entertainment
+2023-12-07,Walmart,Subscription,4958.46,Cash,Food
+2024-09-17,Apple Store,Mobile Purchase,2767.98,Cash,Healthcare
+2025-10-28,Netflix,Movie Ticket,2504.29,UPI,Healthcare
+2024-12-02,BP Petrol,Movie Ticket,4475.01,Cash,Utilities
+2025-04-04,BP Petrol,Online Shopping,1362.76,Cash,Healthcare
+2025-01-23,Big Bazaar,Medical,3293.97,Credit Card,Entertainment
+2025-10-21,Local Grocery,Medical,729.52,UPI,Food
+2025-01-04,Netflix,Medical,1209.96,UPI,Healthcare
+2024-05-02,Uber,Mobile Purchase,3780.49,Credit Card,Healthcare
+2025-08-18,Big Bazaar,Clothes,277.95,UPI,Utilities
+2025-08-21,Uber,Medical,3847.34,Net Banking,Shopping
+2024-12-07,Amazon,Subscription,1373.9,UPI,Shopping
+2025-03-18,Uber,Fuel,4706.3,UPI,Utilities
+2023-12-11,BP Petrol,Subscription,1906.56,Net Banking,Entertainment
+2025-02-27,Walmart,Movie Ticket,1347.18,UPI,Healthcare
+2024-01-27,Netflix,Mobile Purchase,1590.22,Cash,Food
+2025-11-01,Starbucks,Online Shopping,1805.99,Debit Card,Food
+2025-06-24,Walmart,Electricity Bill,2160.59,Net Banking,Transport
+2024-05-31,Apple Store,Movie Ticket,141.05,Debit Card,Transport
+2025-08-03,BP Petrol,Medical,3924.35,UPI,Food
+2025-01-12,Apple Store,Mobile Purchase,3898.05,Net Banking,Utilities
+2024-03-31,Big Bazaar,Electricity Bill,3429.73,Credit Card,Utilities
+2025-02-04,Starbucks,Taxi Ride,2470.69,Cash,Utilities
+2024-08-18,Starbucks,Mobile Purchase,1505.76,Cash,Entertainment
+2025-02-22,Local Grocery,Subscription,2484.05,Net Banking,Utilities
+2024-07-26,Walmart,Electricity Bill,1530.24,UPI,Entertainment
+2024-02-10,Apple Store,Clothes,2206.71,UPI,Healthcare
+2024-03-08,Netflix,Taxi Ride,1610.12,Credit Card,Shopping
+2024-12-20,Netflix,Mobile Purchase,4843.94,Debit Card,Healthcare
+2023-11-26,HDFC Bank,Online Shopping,4839.14,Credit Card,Entertainment
+2024-10-17,Starbucks,Mobile Purchase,1831.43,Net Banking,Utilities
+2024-03-10,Big Bazaar,Electricity Bill,3411.75,Net Banking,Food
+2024-07-22,Local Grocery,Online Shopping,3990.45,Cash,Shopping
+2023-12-18,Flipkart,Electricity Bill,3170.35,Credit Card,Entertainment
+2024-01-02,Netflix,Mobile Purchase,3947.49,Cash,Shopping
+2024-03-04,Flipkart,Medical,2010.02,Net Banking,Healthcare
+2024-09-04,Big Bazaar,Groceries,3955.7,Debit Card,Healthcare
+2024-05-06,BP Petrol,Subscription,4572.86,Cash,Utilities
